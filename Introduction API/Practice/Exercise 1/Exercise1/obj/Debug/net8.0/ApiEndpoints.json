@@ -1,0 +1,75 @@
+[
+  {
+    "ContainingType": "Exercise1.Controllers.ToDoListControllers",
+    "Method": "CreateItems",
+    "RelativePath": "api/todos/ToDoListControllers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newItem",
+        "Type": "Exercise1.Model.CreateToDoItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Exercise1.Controllers.ToDoListControllers",
+    "Method": "GetAllToDoItems",
+    "RelativePath": "api/todos/ToDoListControllers/GetAllItems",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Exercise1.Controllers.ToDoListControllers",
+    "Method": "GetOverDueItems",
+    "RelativePath": "api/todos/ToDoListControllers/overdue",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Exercise1.Controllers.ToDoListControllers",
+    "Method": "SearchByTags",
+    "RelativePath": "api/todos/ToDoListControllers/SearchByTags",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tag",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Exercise1.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Exercise1.WeatherForecast, Exercise1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
