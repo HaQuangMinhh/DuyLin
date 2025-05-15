@@ -1,0 +1,14 @@
+D:\DuyLin\GenericClassAndMethods\bin\Debug\net8.0\GenericClassAndMethods.exe
+D:\DuyLin\GenericClassAndMethods\bin\Debug\net8.0\GenericClassAndMethods.deps.json
+D:\DuyLin\GenericClassAndMethods\bin\Debug\net8.0\GenericClassAndMethods.runtimeconfig.json
+D:\DuyLin\GenericClassAndMethods\bin\Debug\net8.0\GenericClassAndMethods.dll
+D:\DuyLin\GenericClassAndMethods\bin\Debug\net8.0\GenericClassAndMethods.pdb
+D:\DuyLin\GenericClassAndMethods\obj\Debug\net8.0\GenericClassAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\DuyLin\GenericClassAndMethods\obj\Debug\net8.0\GenericClassAndMethods.AssemblyInfoInputs.cache
+D:\DuyLin\GenericClassAndMethods\obj\Debug\net8.0\GenericClassAndMethods.AssemblyInfo.cs
+D:\DuyLin\GenericClassAndMethods\obj\Debug\net8.0\GenericClassAndMethods.csproj.CoreCompileInputs.cache
+D:\DuyLin\GenericClassAndMethods\obj\Debug\net8.0\GenericClassAndMethods.dll
+D:\DuyLin\GenericClassAndMethods\obj\Debug\net8.0\refint\GenericClassAndMethods.dll
+D:\DuyLin\GenericClassAndMethods\obj\Debug\net8.0\GenericClassAndMethods.pdb
+D:\DuyLin\GenericClassAndMethods\obj\Debug\net8.0\GenericClassAndMethods.genruntimeconfig.cache
+D:\DuyLin\GenericClassAndMethods\obj\Debug\net8.0\ref\GenericClassAndMethods.dll
